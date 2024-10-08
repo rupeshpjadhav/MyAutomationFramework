@@ -9,7 +9,7 @@ import testBase.BaseTest;
 public class TC01_AccountRegistration extends BaseTest{
 	
 	
-	@Test
+	@Test (groups={"Sanity","Master"})
 	public void VerifyAccountRegistration ()
 	{
 		logger.info("***** Starting test - TC01_AccountRegistration ****** ");

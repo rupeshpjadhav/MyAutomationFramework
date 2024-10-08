@@ -12,7 +12,7 @@ import utilities.DataProviders;
 
 public class TC03_loginDDTest extends BaseTest{
 
-	@Test (dataProvider = "LoginData", dataProviderClass=DataProviders.class)
+	@Test (dataProvider = "LoginData", dataProviderClass=DataProviders.class,groups={"Regression","Master"})
 	public void testLoginDDT(String email, String pwd, String exp)
 	{
 		// Valid - Login success - Logout - pass

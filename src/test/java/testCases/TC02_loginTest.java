@@ -11,7 +11,7 @@ import testBase.BaseTest;
 
 public class TC02_loginTest extends BaseTest{
 
-	@Test
+	@Test (groups={"Sanity","Master"})
 	public void testLogin()
 	{
 		HomePage hp = new HomePage(driver);

@@ -12,7 +12,7 @@
         <methods>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="testLoginDDT" invocation-numbers="3 5"/>
+          <include name="testLoginDDT" invocation-numbers="0 3 5"/>
         </methods>
       </class> <!-- testCases.TC03_loginDDTest -->
     </classes>
