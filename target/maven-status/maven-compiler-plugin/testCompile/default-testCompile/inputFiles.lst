@@ -1,0 +1,12 @@
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\pageObjects\MyAccountPage.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\utilities\DataProviders.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\testCases\TC02_loginTest.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\testBase\BaseTest.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\pageObjects\BasePage.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\pageObjects\AccountRegistrationPage.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\utilities\ExcelUtility.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\testCases\TC01_AccountRegistration.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\pageObjects\HomePage.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\pageObjects\LoginPage.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\utilities\ExtentReportManager.java
+D:\development\eclipse-workspace\MyAutomationFramework\src\test\java\testCases\TC03_loginDDTest.java
