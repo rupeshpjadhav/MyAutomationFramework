@@ -203,3 +203,37 @@
 2024-11-12 17:50:06 INFO  TC02_loginTest:37 - ****** Heading is present *******
 2024-11-12 17:50:06 INFO  TC02_loginTest:38 - ****** Login successful *******
 2024-11-12 17:50:07 INFO  TC02_loginTest:50 - ****** Finished TC02_loginTest *******
+2024-11-12 18:35:20 DEBUG TestNG:82 - suiteXmlPath: "D:\development\eclipse-workspace\MyAutomationFramework\testng-master.xml"
+2024-11-12 18:35:25 INFO  TC01_AccountRegistration:15 - ***** Starting test - TC01_AccountRegistration ****** 
+2024-11-12 18:35:26 INFO  TC01_AccountRegistration:19 - ***** Clicked on My Account ****** 
+2024-11-12 18:35:26 INFO  TC01_AccountRegistration:21 - ***** Clicked on Register ****** 
+2024-11-12 18:35:26 INFO  TC01_AccountRegistration:23 - ***** Providing user details ****** 
+2024-11-12 18:35:28 INFO  TC01_AccountRegistration:34 - ***** User details provided ****** 
+2024-11-12 18:35:28 INFO  TC01_AccountRegistration:37 - ***** Confirming the message ****** 
+2024-11-12 18:35:28 INFO  TC01_AccountRegistration:59 - ***** Finished test - TC01_AccountRegistration ****** 
+2024-11-12 18:35:31 INFO  TC02_loginTest:18 - ****** Starting TC02_loginTest *******
+2024-11-12 18:35:32 INFO  TC02_loginTest:20 - ****** Clicked My Account *******
+2024-11-12 18:35:32 INFO  TC02_loginTest:22 - ****** Clicked Login *******
+2024-11-12 18:35:32 INFO  TC02_loginTest:27 - ****** Entered email *******
+2024-11-12 18:35:32 INFO  TC02_loginTest:29 - ****** Entered password *******
+2024-11-12 18:35:33 INFO  TC02_loginTest:34 - ****** Checking heading *******
+2024-11-12 18:35:33 INFO  TC02_loginTest:37 - ****** Heading is present *******
+2024-11-12 18:35:33 INFO  TC02_loginTest:38 - ****** Login successful *******
+2024-11-12 18:35:34 INFO  TC02_loginTest:50 - ****** Finished TC02_loginTest *******
+2024-11-12 18:37:03 DEBUG TestNG:82 - suiteXmlPath: "D:\development\eclipse-workspace\MyAutomationFramework\testng-master.xml"
+2024-11-12 18:37:07 INFO  TC01_AccountRegistration:15 - ***** Starting test - TC01_AccountRegistration ****** 
+2024-11-12 18:37:07 INFO  TC01_AccountRegistration:19 - ***** Clicked on My Account ****** 
+2024-11-12 18:37:08 INFO  TC01_AccountRegistration:21 - ***** Clicked on Register ****** 
+2024-11-12 18:37:08 INFO  TC01_AccountRegistration:23 - ***** Providing user details ****** 
+2024-11-12 18:37:09 INFO  TC01_AccountRegistration:34 - ***** User details provided ****** 
+2024-11-12 18:37:09 INFO  TC01_AccountRegistration:37 - ***** Confirming the message ****** 
+2024-11-12 18:37:09 INFO  TC01_AccountRegistration:59 - ***** Finished test - TC01_AccountRegistration ****** 
+2024-11-12 18:37:13 INFO  TC02_loginTest:18 - ****** Starting TC02_loginTest *******
+2024-11-12 18:37:14 INFO  TC02_loginTest:20 - ****** Clicked My Account *******
+2024-11-12 18:37:14 INFO  TC02_loginTest:22 - ****** Clicked Login *******
+2024-11-12 18:37:14 INFO  TC02_loginTest:27 - ****** Entered email *******
+2024-11-12 18:37:14 INFO  TC02_loginTest:29 - ****** Entered password *******
+2024-11-12 18:37:16 INFO  TC02_loginTest:34 - ****** Checking heading *******
+2024-11-12 18:37:16 INFO  TC02_loginTest:37 - ****** Heading is present *******
+2024-11-12 18:37:16 INFO  TC02_loginTest:38 - ****** Login successful *******
+2024-11-12 18:37:16 INFO  TC02_loginTest:50 - ****** Finished TC02_loginTest *******
