@@ -128,3 +128,78 @@
 2024-11-12 17:26:19 INFO  TC03_loginDDTest:28 - ****** Clicked Login *******
 2024-11-12 17:26:19 INFO  TC03_loginDDTest:33 - ****** Entered email *******
 2024-11-12 17:26:19 INFO  TC03_loginDDTest:35 - ****** Entered password *******
+2024-11-12 17:41:47 DEBUG TestNG:82 - suiteXmlPath: "D:\development\eclipse-workspace\MyAutomationFramework\testng-master.xml"
+2024-11-12 17:41:52 INFO  TC01_AccountRegistration:15 - ***** Starting test - TC01_AccountRegistration ****** 
+2024-11-12 17:41:53 INFO  TC01_AccountRegistration:19 - ***** Clicked on My Account ****** 
+2024-11-12 17:41:53 INFO  TC01_AccountRegistration:21 - ***** Clicked on Register ****** 
+2024-11-12 17:41:53 INFO  TC01_AccountRegistration:23 - ***** Providing user details ****** 
+2024-11-12 17:41:55 INFO  TC01_AccountRegistration:34 - ***** User details provided ****** 
+2024-11-12 17:41:55 INFO  TC01_AccountRegistration:37 - ***** Confirming the message ****** 
+2024-11-12 17:41:55 INFO  TC01_AccountRegistration:59 - ***** Finished test - TC01_AccountRegistration ****** 
+2024-11-12 17:41:59 INFO  TC02_loginTest:18 - ****** Starting TC02_loginTest *******
+2024-11-12 17:41:59 INFO  TC02_loginTest:20 - ****** Clicked My Account *******
+2024-11-12 17:41:59 INFO  TC02_loginTest:22 - ****** Clicked Login *******
+2024-11-12 17:42:00 INFO  TC02_loginTest:27 - ****** Entered email *******
+2024-11-12 17:42:00 INFO  TC02_loginTest:29 - ****** Entered password *******
+2024-11-12 17:44:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Rupesh\AppData\Local\Temp\testng-eclipse--1396993108\testng-customsuite.xml"
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Rupesh\AppData\Local\Temp\testng-eclipse--1396993108\testng-customsuite.xml
+
+2024-11-12 17:44:19 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@458342d3: 22 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7db82169: 61 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1643d68f: 16 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@bcec031: 21 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a39fe6a: 8 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@592e843a: 9 ms
+2024-11-12 17:44:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1d1f7216: 0 ms
+2024-11-12 17:49:53 DEBUG TestNG:82 - suiteXmlPath: "D:\development\eclipse-workspace\MyAutomationFramework\testng-master.xml"
+2024-11-12 17:49:54 INFO  Utils:112 - [TestNG] Running:
+  D:\development\eclipse-workspace\MyAutomationFramework\testng-master.xml
+
+2024-11-12 17:49:58 INFO  TC01_AccountRegistration:15 - ***** Starting test - TC01_AccountRegistration ****** 
+2024-11-12 17:49:58 INFO  TC01_AccountRegistration:19 - ***** Clicked on My Account ****** 
+2024-11-12 17:49:58 INFO  TC01_AccountRegistration:21 - ***** Clicked on Register ****** 
+2024-11-12 17:49:58 INFO  TC01_AccountRegistration:23 - ***** Providing user details ****** 
+2024-11-12 17:50:00 INFO  TC01_AccountRegistration:34 - ***** User details provided ****** 
+2024-11-12 17:50:00 INFO  TC01_AccountRegistration:37 - ***** Confirming the message ****** 
+2024-11-12 17:50:00 INFO  TC01_AccountRegistration:59 - ***** Finished test - TC01_AccountRegistration ****** 
+2024-11-12 17:50:04 INFO  TC02_loginTest:18 - ****** Starting TC02_loginTest *******
+2024-11-12 17:50:04 INFO  TC02_loginTest:20 - ****** Clicked My Account *******
+2024-11-12 17:50:05 INFO  TC02_loginTest:22 - ****** Clicked Login *******
+2024-11-12 17:50:05 INFO  TC02_loginTest:27 - ****** Entered email *******
+2024-11-12 17:50:05 INFO  TC02_loginTest:29 - ****** Entered password *******
+2024-11-12 17:50:06 INFO  TC02_loginTest:34 - ****** Checking heading *******
+2024-11-12 17:50:06 INFO  TC02_loginTest:37 - ****** Heading is present *******
+2024-11-12 17:50:06 INFO  TC02_loginTest:38 - ****** Login successful *******
+2024-11-12 17:50:07 INFO  TC02_loginTest:50 - ****** Finished TC02_loginTest *******
